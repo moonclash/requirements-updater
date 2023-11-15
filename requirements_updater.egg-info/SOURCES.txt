@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.py
+requirements_updater.egg-info/PKG-INFO
+requirements_updater.egg-info/SOURCES.txt
+requirements_updater.egg-info/dependency_links.txt
+requirements_updater.egg-info/entry_points.txt
+requirements_updater.egg-info/requires.txt
+requirements_updater.egg-info/top_level.txt
