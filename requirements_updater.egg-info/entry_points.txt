@@ -1,2 +1,2 @@
 [console_scripts]
-updater = updater.cli:main
+requpdater = updater.cli:main
